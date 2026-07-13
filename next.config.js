@@ -1,4 +1,3 @@
-js
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   // outputFileTracingRoot: path.resolve(__dirname, '../../'),  // Uncomment and add 'import path from "path"' if needed
